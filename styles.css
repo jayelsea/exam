@@ -1,0 +1,24 @@
+div  {
+    max-width: 1px;
+    border-radius: 10px;
+    display: flex;
+    list-style: none;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: black;
+}
+ul{
+    display: flex;
+    list-style: none;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+p{
+    font-size: 30px;
+}
+html{
+    background-color: aliceblue;
+}
